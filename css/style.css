@@ -1,8 +1,8 @@
 /*header and nav bar*/
 #container {
   max-width: 1200px;
-  margin: 0 auto;
-  padding: 0 20px;
+  margin: auto;
+  padding: 20px;
 }
 
 #header {
