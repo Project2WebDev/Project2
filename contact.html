@@ -9,33 +9,49 @@
   <script src="js/script.js" async></script>
 </head>
 <body>
-    <header class="container header">
-      <div class="logo">
-        <h2><img src="ISUD_Logo_color.webp" alt="Logo"></h2>
+    <header id="container header">
+      <div id="logo">
+        <h2><img src="ISUD_Logo_color.png" alt="Logo"></h2>
       </div>
 	  <div>
-	  <h1 class="page-title">The International Society for Universal Dialogue</h1>
+	  <h1 id="page-title">The International Society for Universal Dialogue</h1>
       </div>
     </header>
     <nav>
-      <div class="navbar">
-        <ul class="nav-links">
+      <div id="navbar">
+        <ul id="nav-links">
           <li id="onpage">
-		  <div class="dropdown" tabindex="0">
+		  <div id="dropdown" tabindex="0">
               <a href="index.html">Home</a>
             </div>
           </li>
           <li>
-            <div class="dropdown" tabindex="0">
+            <div id="dropdown" tabindex="0">
               <a href="About Us.html">About Us</a>
             </div>
           </li>
           <li>
-            <div class="dropdown" tabindex="0">
+            <div id="dropdown" tabindex="0">
               <a href="contact.html">Contact Us</a>
             </div>
           </li>
         </ul>
       </div>
     </nav>
+	<form method="get" action="#null">
+	  <h1>Thank you for your interest in ISUD.</h1>
+	  <p>To contact us please reach us via:</p>
+	  <div id="name">
+	    <input type="text" id="name" name="fname" placeholder="Name"/>
+	  </div>
+	  <div id="email">
+	    <input type="email" id="email" name="email" placeholder="sample@email.com">
+	  </div>
+	  <div id="subject">
+	   <input type="text" id="subject" name="subject" placeholder="Subject">
+	  <div>
+	  <div id="message">
+	    <input type="text" id="message" name="subject" placeholder="Message">
+	  </div>
+	</form>
 </body>
