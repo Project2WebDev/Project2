@@ -1,10 +1,4 @@
 /*header and nav bar*/
-#container {
-  max-width: 1200px;
-  margin: auto;
-  padding: 20px;
-}
-
 #header {
   background-color: #ffffff;
   padding: 20px 0;
