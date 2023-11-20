@@ -21,8 +21,7 @@
 #page-title {
   font-size: 24px;
   color: #2C6CA3;
-  margin: 0;
-  margin-left: 20px;
+  vertical-align: center;
 }
 
 
@@ -88,4 +87,11 @@
   content: "";
   clear: both;
   display: table;
+}
+
+/*Contact Page css*/
+#contact-title {
+  font-size: 24px;
+  color: #2C6CA3;
+  vertical-align: center;
 }
