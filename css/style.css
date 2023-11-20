@@ -1,11 +1,11 @@
 /*header and nav bar*/
-.container {
+#container {
   max-width: 1200px;
   margin: 0 auto;
   padding: 0 20px;
 }
 
-header {
+#header {
   background-color: #ffffff;
   padding: 20px 0;
   border-bottom: 1px solid #e0e0e0;
@@ -21,8 +21,7 @@ header {
 #page-title {
   font-size: 24px;
   color: #2C6CA3;
-  margin: 0;
-  margin-left: 20px;
+  vertical-align: center;
 }
 
 
@@ -93,4 +92,11 @@ header {
   content: "";
   clear: both;
   display: table;
+}
+
+/*Contact Page css*/
+#contact-title {
+  font-size: 24px;
+  color: #2C6CA3;
+  vertical-align: center;
 }
