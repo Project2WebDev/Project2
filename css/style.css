@@ -11,11 +11,10 @@
   border-bottom: 1px solid #e0e0e0;
   display: flex;
   align-items: center;
+  text-align: center;
   justify-content: space-between;
 }
 
-#logo img {
-  max-height: 50px;
 }
 
 #page-title {
@@ -95,8 +94,30 @@
 }
 
 /*Contact Page css*/
+#contact-header{
+  background-color: #ffffff;
+  padding: 20px;
+  display: flex;
+  text-align: center;
+  font-size: 30px;
+}
+#contact-us {
+	background: #3269a8;
+	font-size: 30px;
+	margin:auto;
+	padding: 20px;
+	text-align: center;
+	color: #fcfcfc
+}
+#contact-logo img{
+  max-height: 60px;;
+	
+	
+}
+
 #contact-title {
-  font-size: 24px;
+  margin-top: 3%;
+  font-size: 30px;
   color: #2C6CA3;
   vertical-align: center;
 }
