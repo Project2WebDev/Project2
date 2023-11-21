@@ -9,14 +9,14 @@
 }
 
 #logo img {
-  max-height: 70px;
+  max-height: 60px;
 }
 
 #page-title {
   font-size: 24px;
   color: #2C6CA3;
   vertical-align: center;
-  margin-top: 2%;
+  margin-top: 5%;
 }
 
 #nav-links {
