@@ -17,7 +17,8 @@
   color: #2C6CA3;
   vertical-align: center;
   margin-top: 5%;
-  margin-left: 2%;
+  margin-left: 2%;\
+  width: 100%;
 }
 
 #nav-links {
