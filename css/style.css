@@ -112,3 +112,68 @@
   color: #2C6CA3;
   vertical-align: center;
 }
+
+#thanks {
+	font-size: 25px;
+	background-color:#3269a8;
+	text-align: center;
+	vertical-align: center;
+	margin-top: 4%;
+	margin-left: 30%;
+	margin-right: 30%;
+	padding:5px;
+	border: 1px solid #00000;
+	border-radius: 5px;
+}
+p, h1{
+	color:white;
+}
+
+#name{
+	vertical-align: left;
+	background-color:#3269a8;
+	text-align:left;
+	border: 1px solid #00000;
+	margin-top: 10px;
+	color:white;
+	font-size:25px;
+	margin-left:60px;
+	border-radius:5px;
+}
+
+#email{
+	vertical-align: left;
+	background-color:#3269a8;
+	text-align:left;
+	border: 1px solid #00000;
+	border-radius:5px;
+	color:white;
+	font-size:25px;
+	margin-left:60px;
+	margin-top:5px;
+}
+
+#subject{
+	vertical-align: left;
+	background-color:#3269a8;
+	text-align:left;
+	border: 1px solid #00000;
+	color:white;
+	font-size:25px;
+	margin-left:60px;
+	margin-top:5px;
+	border-radius:3px;
+}
+
+#message {
+	vertical-align: left;
+	background-color:#3269a8;
+	text-align:left;
+	color:white;
+	font-size:25px;
+	margin-left:30px;
+	margin-top:5px;
+	margin-bottom:10px;
+	border-radius:3px;
+}
+
