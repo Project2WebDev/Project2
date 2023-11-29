@@ -131,7 +131,6 @@ p, h1{
 
 #name{
 	vertical-align: left;
-	background-color:#3269a8;
 	text-align:left;
 	border: 1px solid #00000;
 	margin-top: 10px;
@@ -144,7 +143,6 @@ p, h1{
 
 #email{
 	vertical-align: left;
-	background-color:#3269a8;
 	text-align:left;
 	border: 1px solid #00000;
 	border-radius:5px;
@@ -157,7 +155,6 @@ p, h1{
 
 #subject{
 	vertical-align: left;
-	background-color:#3269a8;
 	text-align:left;
 	border: 1px solid #00000;
 	color:white;
@@ -170,7 +167,6 @@ p, h1{
 
 #message {
 	vertical-align: left;
-	background-color:#3269a8;
 	text-align:left;
 	color:white;
 	font-size:25px;
@@ -182,11 +178,16 @@ p, h1{
 }
 #submitbutton {
 	vertical-align: right;
-	background-color:#3269a8;
 	text-align:right;
-	color:white;
+	color:#3269a8;
 	font-size:25px;
-	margin-left:30px;
+	padding:10px;
+	border:1px solid #0000;
+	border-radius:10px;
+}
+form{
+   background:#3269a8;
+   margin-left:30px;
 	margin-top:5px;
 	margin-bottom:20px;
 	border-radius:8px;
