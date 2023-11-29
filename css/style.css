@@ -188,3 +188,7 @@ p, h1{
    margin-right:50%;
    border: 1px solid #0000;
 }
+#contactbody{
+	background-image: url(../media/flags.jpg);
+	background-color: #cccccc;
+}
