@@ -8,15 +8,16 @@
   <link rel="stylesheet" media="screen" href="css/style.css">
   <script src="js/script.js" async></script>
 </head>
-<body>
+<body id="contactbody">
     <header id="contact-header">
-      <div id="logo">
-        <h2><img src="media/ISUD_Logo_color.png" alt="Logo"></h2>
+      <div id="contact-logo">
+        <img src="media/ISUD_Logo_color.png">
       </div>
 	  <div>
 	  <h1 id="contact-title">The International Society for Universal Dialogue</h1>
       </div>
     </header>
+	<h1 id="contact-us">Contact Us</h1>
     <nav>
       <div id="navbar">
         <ul id="nav-links">
@@ -38,9 +39,11 @@
         </ul>
       </div>
     </nav>
-	<form method="get" action="#null">
+	<form id="contactform" method="get" action="#null">
+      <div id="thanks">
 	  <h1>Thank you for your interest in ISUD.</h1>
-	  <p>To contact us please reach us via:</p>
+	  <p>To contact us please fill out the form below:</p>
+	  </div>
 	  <div id="name">
 	    <input type="text" id="name" name="fname" placeholder="Name"/>
 	  </div>
@@ -51,7 +54,10 @@
 	   <input type="text" id="subject" name="subject" placeholder="Subject">
 	  <div>
 	  <div id="message">
-	    <input type="text" id="message" name="subject" placeholder="Message">
+	    <input type="text" id="message" name="message" placeholder="Message">
 	  </div>
+	  <div id="submitbutton">
+	  <input type="submit" value="Send"/>
+	</div>
 	</form>
 </body>
