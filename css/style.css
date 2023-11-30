@@ -113,7 +113,7 @@
 
 #image1 {
   max-width: 100px;
-  height: auto;
+  height: 100%;
    float: left;
     object-fit: cover;
 }
