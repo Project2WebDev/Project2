@@ -122,19 +122,17 @@
 /*About Us Page css*/
 #AbtImg img {
 	width: 200px;
-	margin-bottom:10%;
+	margin-bottom:10px;
 	color:black;
 	font-size:15px;
-	margin: auto;	
+	margin-right:30px;
+	margin-left:10%;
+	
 }
 #AbtU h1 {
   background-color: #2C6CA3;
   padding: 10px;
-  display: flex;
-  align-items: center;
-  text-align: center;
-  justify-content: space-between;
-  text-align: center;
+  text-align:center;
   font-size:30px;
   color:white;
 }
@@ -155,14 +153,10 @@
 	margin-right:30px;
 	margin-left:30px;
 }
-#AbtH  h1 {
+#AbtH h1 {
   background-color: #2C6CA3;
   padding: 10px;
-  display: flex;
-  align-items: center;
   text-align: center;
-  vertical-align:center;
-  justify-content: space-between;
   font-size:30px;
   color:white;
 }
@@ -188,6 +182,7 @@
 	margin-left:30px;
 	
 }
+
 	
 =======
 #thanks {
