@@ -112,8 +112,8 @@
 }
 
 #image1 {
-  max-width: 90px;
-  max-height: 50%;
+  max-width: 100px;
+  max-height: auto%;
 }
 
 #image2 {
