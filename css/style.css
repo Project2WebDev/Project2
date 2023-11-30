@@ -113,21 +113,18 @@
 
 #image1 {
   max-width: 100px;
-  height: 100%;
    float: left;
     object-fit: cover;
 }
 
 #image2 {
   max-width: 80%;
-  height: auto;
   float: left;
     object-fit: cover;
 }
 
 #image3 {
   max-width: 40%; 
-  height: auto;
   float: left;
   object-fit: cover;
 }
