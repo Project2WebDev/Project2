@@ -111,6 +111,11 @@
   vertical-align: center;
 }
 
+#page1images {
+  max-width: 100%;
+  height: auto;
+}
+
 <<<<<<< HEAD
 /*Contact Page css*/
 #contact-title {
