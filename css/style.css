@@ -121,11 +121,15 @@
 #image2 {
   max-width: 100%;
   height: auto;
+  float: center;
+    object-fit: cover;
 }
 
 #image3 {
   max-width: 100%; 
   height: auto%;
+  float: right;
+    object-fit: cover;
 }
 
 <<<<<<< HEAD
