@@ -128,8 +128,8 @@
 #image3 {
   max-width: 40%; 
   height: auto%;
-  float: right;
-    object-fit: cover;
+  float: left;
+  object-fit: cover;
 }
 
 <<<<<<< HEAD
