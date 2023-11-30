@@ -113,7 +113,7 @@
 
 #image1 {
   max-width: 100px;
-  height: auto%;
+  height: auto;
    float: left;
     object-fit: cover;
 }
@@ -127,7 +127,7 @@
 
 #image3 {
   max-width: 40%; 
-  height: auto%;
+  height: auto;
   float: left;
   object-fit: cover;
 }
