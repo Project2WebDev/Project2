@@ -77,6 +77,28 @@
   padding: 5px;
 }
 
+#homebody{
+background-color: #ebebeb;
+	
+}
+
+
+#image1 {
+ width: 410px;
+
+}
+
+#image2 {
+ width: 410px;
+ 
+}
+
+#image3 {
+  width:410px;
+
+}
+
+
 /* Clear floats after image containers */
 #row::after {
   content: "";
@@ -109,21 +131,6 @@
   font-size: 30px;
   color: #2C6CA3;
   vertical-align: center;
-}
-
-#image1 {
-  max-width: 100px;
-  max-height: auto%;
-}
-
-#image2 {
-  max-width: 100%;
-  max-height: auto;
-}
-
-#image3 {
-  max-width: 90%; 
-  max-height: 50%;
 }
 
 <<<<<<< HEAD
@@ -159,6 +166,7 @@
 	text-align: center;
 	margin-right:30px;
 	margin-left:30px;
+	background:#D3D3D3;
 }
 #AbtU ul li {
 	font-size:20px;
@@ -167,6 +175,7 @@
 	display:flex;
 	margin-right:30px;
 	margin-left:30px;
+
 }
 #AbtH h1 {
   background-color: #2C6CA3;
@@ -197,8 +206,11 @@
 	margin-left:30px;
 	
 }
-
-
+#page {
+	background:#D3D3D3;
+}
+	
+=======
 #thanks {
   vertical-align:center;
   text-align:center;
@@ -219,7 +231,7 @@ p, h1{
 	font-size:25px;
 	margin-left:60px;
 	border-radius:5px;
-	margin-right:20%;
+	margin-right:50%;
 }
 
 #email{
@@ -231,7 +243,7 @@ p, h1{
 	font-size:25px;
 	margin-left:60px;
 	margin-top:5px;
-	margin-right:20%;
+	margin-right:50%;
 }
 
 #subject{
@@ -243,7 +255,7 @@ p, h1{
 	margin-left:60px;
 	margin-top:5px;
 	border-radius:3px;
-	margin-right:20%;
+	margin-right:50%;
 }
 
 #message{
@@ -255,7 +267,7 @@ p, h1{
 	margin-top:5px;
 	margin-bottom:10px;
 	border-radius:3px;
-	margin-right:20%;
+	margin-right:50%;
 	height: 90px;
 }
 #submitbutton{
@@ -280,3 +292,4 @@ p, h1{
 	background-image: url(../media/flags.jpg);
 	background-color: #cccccc;
 }
+>>>>>>> b1c62f7ca18516ee2cf170d2ab23de807225d18c
