@@ -77,6 +77,28 @@
   padding: 5px;
 }
 
+#homebody{
+background-color: #ebebeb;
+	
+}
+
+
+#image1 {
+ width: 410px;
+
+}
+
+#image2 {
+ width: 410px;
+ 
+}
+
+#image3 {
+  width:410px;
+
+}
+
+
 /* Clear floats after image containers */
 #row::after {
   content: "";
@@ -109,26 +131,6 @@
   font-size: 30px;
   color: #2C6CA3;
   vertical-align: center;
-}
-#body{
-background-color: #ebebeb;
-	
-}
-
-
-#image1 {
- width: 410px;
-
-}
-
-#image2 {
- width: 410px;
- 
-}
-
-#image3 {
-  width:410px;
-
 }
 
 <<<<<<< HEAD
