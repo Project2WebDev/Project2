@@ -111,9 +111,19 @@
   vertical-align: center;
 }
 
-#page1images {
-  max-width: 90%;
-  height: auto;
+#image1 {
+ width: 420px;
+
+}
+
+#image2 {
+ width: 420px;
+ 
+}
+
+#image3 {
+  width:420px;
+
 }
 
 <<<<<<< HEAD
