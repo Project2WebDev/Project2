@@ -110,7 +110,9 @@
   color: #2C6CA3;
   vertical-align: center;
 }
-
+#1 {
+	vertical-align: center;
+}
 #image1 {
  width: 410px;
 
