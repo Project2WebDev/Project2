@@ -114,6 +114,8 @@
 #image1 {
   max-width: 100px;
   height: auto%;
+   float: left;
+    object-fit: cover;
 }
 
 #image2 {
