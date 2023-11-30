@@ -159,6 +159,7 @@
 	text-align: center;
 	margin-right:30px;
 	margin-left:30px;
+	background:#D3D3D3;
 }
 #AbtU ul li {
 	font-size:20px;
@@ -167,6 +168,7 @@
 	display:flex;
 	margin-right:30px;
 	margin-left:30px;
+
 }
 #AbtH h1 {
   background-color: #2C6CA3;
@@ -197,7 +199,9 @@
 	margin-left:30px;
 	
 }
-
+#page {
+	background:#D3D3D3;
+}
 	
 =======
 #thanks {
