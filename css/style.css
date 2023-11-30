@@ -112,19 +112,18 @@
 }
 
 #image1 {
- width: 200px;
- height: 200px;
+ width: 100px;
+
 }
 
 #image2 {
- width: 200px;
- height: 200px;
+ width: 100px;
+ 
 }
 
 #image3 {
-  max-width: 40%; 
-  float: left;
-  object-fit: cover;
+  width: 100px;
+
 }
 
 <<<<<<< HEAD
