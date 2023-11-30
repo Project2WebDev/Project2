@@ -121,7 +121,7 @@
 #image2 {
   max-width: 80%;
   height: auto;
-  float: center;
+  float: left;
     object-fit: cover;
 }
 
