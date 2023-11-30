@@ -144,13 +144,16 @@
 	padding: 10px;
 	display: flex;
 	text-align: center;
-	
+	margin-right:30px;
+	margin-left:30px;
 }
 #AbtU ul li {
 	font-size:20px;
 	color:black;
 	padding:10px;
 	display:flex;
+	margin-right:30px;
+	margin-left:30px;
 }
 #AbtH  h1 {
   background-color: #2C6CA3;
@@ -158,8 +161,8 @@
   display: flex;
   align-items: center;
   text-align: center;
+  vertical-align:center;
   justify-content: space-between;
-  text-align: center;
   font-size:30px;
   color:white;
 }
@@ -169,9 +172,10 @@
   align-items: center;
   text-align: center;
   justify-content: space-between;
-  text-align: center;
   font-size:20px;
   color:black;
+  margin-right:30px;
+  margin-left:30px;
 }  
 
 #AbtH p {
@@ -180,6 +184,8 @@
 	padding: 10px;
 	display: flex;
 	text-align: left;
+	margin-right:30px;
+	margin-left:30px;
 	
 }
 	
