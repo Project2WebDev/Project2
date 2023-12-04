@@ -97,6 +97,7 @@ background-color: #ebebeb;
 
 }
 /*
+old footer
 #footer {
   text-align: center;
   margin: 0;
@@ -112,6 +113,7 @@ background-color: #ebebeb;
 */
 footer{
 	justify-content: center;
+	color:white;
 	clear:both;
 	width: 100%;
 	font-size: 15px;
