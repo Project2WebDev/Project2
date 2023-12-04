@@ -8,6 +8,7 @@
   justify-content: space-between;
   text-align: center;
   font-size: 60px;
+  font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 }
 
 #logo img {
@@ -59,6 +60,7 @@
   font-weight: normal;
   display: block;
   padding: 10px; 
+  font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 }
 
 #dropdown-content a:hover {
@@ -100,10 +102,11 @@ background-color: #ebebeb;
 
 #footer {
   text-align: center;
-  padding: 1rem;
+  padding: 1px;
   background-color: #2C6CA3;
   color: #ffffff;
-  font-size: 1rem;
+  font-size: 1px;
+  font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 }
 
 
@@ -121,6 +124,7 @@ background-color: #ebebeb;
   display: flex;
   text-align: center;
   font-size: 30px;
+  font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 }
 #contact-us {
 	background: #3269a8;
@@ -129,6 +133,7 @@ background-color: #ebebeb;
 	padding: 20px;
 	text-align: center;
 	color: #fcfcfc;
+	font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 }
 #contact-logo img{
   max-height: 60px;
@@ -175,6 +180,7 @@ background-color: #ebebeb;
 	margin-right:30px;
 	margin-left:30px;
 	background:#D3D3D3;
+	font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 }
 #AbtU ul li {
 	font-size:20px;
@@ -202,6 +208,7 @@ background-color: #ebebeb;
   color:black;
   margin-right:30px;
   margin-left:30px;
+  font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 }  
 
 #AbtH p {
@@ -212,6 +219,7 @@ background-color: #ebebeb;
 	text-align: left;
 	margin-right:30px;
 	margin-left:30px;
+	font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 	
 }
 #page {
@@ -223,9 +231,7 @@ background-color: #ebebeb;
   font-size:30px;
   margin-top:30px;
   margin-bottom:30px;
-}
-p, h1{
-	color:white;
+  font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 }
 
 #name{
@@ -237,6 +243,7 @@ p, h1{
 	border-radius:5px;
 	margin-right:50%;
 	justify-content: start;
+	font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 }
 
 #email{
@@ -247,6 +254,7 @@ p, h1{
 	margin-left:60px;
 	margin-top:5px;
 	margin-right:50%;
+	font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 }
 
 #subject{
@@ -257,6 +265,7 @@ p, h1{
 	margin-top:5px;
 	border-radius:3px;
 	margin-right:50%;
+	font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 }
 
 #message{
@@ -269,6 +278,7 @@ p, h1{
 	border-radius:3px;
 	margin-right:50%;
 	height: 90px;
+	font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 }
 #submitbutton{
 	text-align:right;
@@ -276,6 +286,7 @@ p, h1{
 	font-size:25px;
 	padding:10px;
 	border-radius:10px;
+	font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 }
 #contactform{
    background:#3269a8;
