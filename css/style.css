@@ -102,8 +102,9 @@ background-color: #ebebeb;
   margin: 0;
   background-color: #2C6CA3;
   color: #ffffff;
-  font-size: 1;
+  font-size: 15px;
   padding: 10px;
+<<<<<<< HEAD
   width: 100%;
   position: fixed;
   bottom:0%; 
@@ -113,6 +114,11 @@ background-color: #ebebeb;
   font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 }
 >>>>>>> 37483f16f55f0de24863f1130de5a5f802dbe276
+=======
+  width: auto;
+  position: relative;
+  }
+>>>>>>> dd48e4c14fce24cc52227c8ba3e5f60738fd4c7d
 
 
 /* Clear floats after image containers */
