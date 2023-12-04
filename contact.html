@@ -11,7 +11,7 @@
 <body id="contactbody">
     <header id="contact-header">
       <div id="contact-logo">
-        <img src="media/ISUD_Logo_color.png">
+        <img src="media/ISUD_Logo_color.png" alt="logo">
       </div>
 	  <div>
 	  <h1 id="contact-title">The International Society for Universal Dialogue</h1>
@@ -21,12 +21,20 @@
     <nav>
       <div id="navbar">
         <ul id="nav-links">
-          <li id="onpage"></li>
-		    <div id="dropdown" tabindex="0">
-              <li><a href="index.html">Home</a></li>
-              <li><a href="About Us.html">About Us</a></li>
-              <li><a href="contact.html">Contact Us</a></li>
-          </div>
+          <li id="onpage">
+		  <div id="dropdown" tabindex="0">
+              <a href="index.html">Home</a>
+            </div>
+          </li>
+          <li>
+            <div id="dropdown" tabindex="0">
+              <a href="About Us.html">About Us</a>
+            </div>
+          </li>
+          <li>
+            <div id="dropdown" tabindex="0">
+              <a href="contact.html">Contact Us</a>
+            </div>
           </li>
         </ul>
       </div>
@@ -37,19 +45,19 @@
 	  <p>To contact us please fill out the form below:</p>
 	  </div>
 	  <div id="name">
-	    <input type="text" id="name" name="fname" placeholder="Name"/>
+	    <input type="text" id="fname" name="fname" placeholder="Name"/>
 	  </div>
 	  <div id="email">
-	    <input type="email" id="email" name="email" placeholder="sample@email.com">
+	    <input type="email" id="cemail" name="cemail" placeholder="sample@email.com">
 	  </div>
 	  <div id="subject">
-	   <input type="text" id="subject" name="subject" placeholder="Subject">
+	   <input type="text" id="csubject" name="csubject" placeholder="Subject">
 	  <div>
 	  <div id="message">
-	    <input type="text" id="message" name="message" placeholder="Message">
+	    <input type="text" id="cmessage" name="cmessage" placeholder="Message">
 	  </div>
 	  <div id="submitbutton">
-	  <input type="submit" value="Send"/>
-	</div>
+	    <input type="submit" value="Send"/>
+	  </div>
 	</form>
 </body>
