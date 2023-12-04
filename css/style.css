@@ -100,18 +100,14 @@ background-color: #ebebeb;
 #footer {
   text-align: center;
   margin: 0;
-  padding: 1px;
   background-color: #2C6CA3;
   color: #ffffff;
   font-size: 1;
   padding: 10px;
-  align-content: bottom;
   width: 100%;
-  position: absolute;
-  bottom:0;
-  left: 0;
- 
-  }
+  position: fixed;
+  bottom:0%; 
+}
 =======
   font-size: 1px;
   font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
