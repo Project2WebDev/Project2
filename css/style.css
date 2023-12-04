@@ -96,7 +96,7 @@ background-color: #ebebeb;
   width:410px;
 
 }
-
+/*
 #footer {
   text-align: center;
   margin: 0;
@@ -108,6 +108,15 @@ background-color: #ebebeb;
   width: 100%;
   position: fixed;
   bottom:0%; 
+}
+*/
+footer{
+	
+	justify-content: center;
+	clear:both;
+	width: 100%;
+	background-color: #3269a8;
+	overflow:hidden;
 }
 =======
   font-size: 1px;
