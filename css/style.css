@@ -110,13 +110,13 @@ background-color: #ebebeb;
   bottom:0%; 
 }
 */
-#footer{
+footer{
 	justify-content: center;
 	clear:both;
 	width: 100%;
 	font-size: 15px;
     padding: 10px;
-	background-color: #3269a8;
+	background-color: #2C6CA3;
 	overflow:hidden;
 }
 =======
