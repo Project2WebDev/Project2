@@ -107,7 +107,11 @@ background-color: #ebebeb;
   position: relative;
   align-content: bottom;
   width: 100%;
-}
+  position: absolute;
+  bottom:0;
+  left: 0;
+  
+  }
 
 
 /* Clear floats after image containers */
