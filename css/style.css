@@ -98,6 +98,15 @@ background-color: #ebebeb;
 
 }
 
+#footer {
+  text-align: center;
+  padding: 2rem;
+  background-color: #2b6ca3;
+  color: #ffffff;
+  font-size: 1rem;
+  
+}
+
 
 /* Clear floats after image containers */
 #row::after {
