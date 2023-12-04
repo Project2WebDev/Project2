@@ -222,18 +222,17 @@ p, h1{
 
 #name{
 	text-align:left;
-	border: 1px solid #000;
 	margin-top: 10px;
 	color:white;
 	font-size:25px;
 	margin-left:60px;
 	border-radius:5px;
 	margin-right:50%;
+	justify-content: start;
 }
 
 #email{
 	text-align:left;
-	border: 1px solid #000;
 	border-radius:5px;
 	color:white;
 	font-size:25px;
@@ -244,7 +243,6 @@ p, h1{
 
 #subject{
 	text-align:left;
-	border: 1px solid #000;
 	color:white;
 	font-size:25px;
 	margin-left:60px;
@@ -269,7 +267,6 @@ p, h1{
 	color:white;
 	font-size:25px;
 	padding:10px;
-	border:1px solid #000;
 	border-radius:10px;
 }
 #contactform{
